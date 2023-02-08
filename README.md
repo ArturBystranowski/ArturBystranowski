@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ArturBystranowski
-- 👀 I’m interested in Front-end technologies.
-- 🌱 I’m currently learning JS,CSS,HTML and REACT
-- 💞️ I’m looking for and internship to develop my programming skills.
+- 👀 I’m interested in Front-end technologies. JS, REACT, GATSBY, NEXT
 - 📫 artur.bystranowski@gmail.com
 
 <!---
